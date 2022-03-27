@@ -27,7 +27,7 @@
             <a href="{{ url('/') }}" class="flex items-center py-4 px-2">
 {{--                <img src="{{ asset('assets/images/web-clip-icon.jpg') }}" alt="Logo" class="h-8 w-8 mr-2" />--}}
                 <span class="font-semibold text-gray-500 text-lg">
-                   <img class="object-cover h-10 w-20 ..." src="{{ asset('assets/images/No-9-Projekoi-gold.png') }}">
+                   <img class="object-cover h-14 w-32" src="{{ asset('assets/images/No-9-Projekoi-gold.png') }}">
                 </span>
             </a>
             <g
